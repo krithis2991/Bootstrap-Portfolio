@@ -1,6 +1,7 @@
 body {
     margin: 0 auto;
-    background-image: url('./assets/images/ricepaper.png')
+    background-image: url('./assets/images/ricepaper.png');
+    
 }
 
 .img-thumbnail {
@@ -9,4 +10,7 @@ body {
 }
 h2 {
     color:  #4aaaa5;
+}
+.contact-info {
+    border-color: 5px solid black;
 }
