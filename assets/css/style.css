@@ -1,16 +1,23 @@
 body {
     margin: 0 auto;
-    background-image: url('./assets/images/ricepaper.png');
-    
+    background-image: url('./assets/images/ricepaper.png');   
 }
 
 .img-thumbnail {
-    height:200px;
-    width:200px;
+    height:100%;
+    width:100%;
 }
 h2 {
     color:  #4aaaa5;
 }
 .contact-info {
     border-color: 5px solid black;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+li {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
